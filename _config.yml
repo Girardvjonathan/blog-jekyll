@@ -1,12 +1,13 @@
-name: Herring Cove
-author: Herring Cove
-baseurl: /herring-cove
-description: theme for jekyll
-github: http://www.github.com/arnp
+name: My incroyable blog
+author: Jonathan Girard Viau
+url: https://girardvjonathan.github.io/
+baseurl: /blog-jekyll
+description: Idea, project and fun
+github: https://github.com/Girardvjonathan/
 twitter: http://www.twitter.com/
 facebook: http://www.facebook.com
 linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
+email: webappjohn[at]gmail.com
 location: 42°2'16"N   70°12'47"W
 disqus: diqus-username
 
